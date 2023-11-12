@@ -6,7 +6,7 @@ import pandas as pd
 from credentials import *
 
 
-logging.basicConfig(level=logging.INFO, filename=os.path.join(os.getcwd(), "logs", "status"), filemode="w", format="%(asctime)s - %(levelname)s - %(message)s")
+logging.basicConfig(level=logging.INFO, filename=os.path.join(os.getcwd(), "crime", "logs", "status"), filemode="w", format="%(asctime)s - %(levelname)s - %(message)s")
 
 
 def extract():
