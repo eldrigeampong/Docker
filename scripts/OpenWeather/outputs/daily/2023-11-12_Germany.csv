@@ -1,0 +1,9 @@
+date,pressure,humidity,wind_speed,wind_deg,clouds,pop,uvi,temp_day,summary,weather_group,weather_description
+2023-11-12 11:00:00,1008,68,5.36,239,100,0,0.74,279.58,There will be partly cloudy today,Clouds,overcast clouds
+2023-11-13 11:00:00,1009,95,11.06,249,100,1,0.2,279.26,Expect a day of partly cloudy with rain,Rain,moderate rain
+2023-11-14 11:00:00,1005,81,8.92,238,100,1,0.42,283.34,"You can expect partly cloudy in the morning, with rain in the afternoon",Rain,moderate rain
+2023-11-15 11:00:00,1012,87,9.88,255,99,1,0.09,281.63,Expect a day of partly cloudy with rain,Rain,moderate rain
+2023-11-16 11:00:00,1011,85,9.53,223,100,1,0.2,280.56,Expect a day of partly cloudy with rain,Rain,light rain
+2023-11-17 11:00:00,1012,83,12.3,240,100,1,0.28,280.78,Expect a day of partly cloudy with rain,Rain,light rain
+2023-11-18 11:00:00,1024,78,7.32,221,100,1,1.0,281.01,"The day will start with rain through the late morning hours, transitioning to partly cloudy",Rain,light rain
+2023-11-19 11:00:00,1013,86,9.19,225,100,1,1.0,283.87,Expect a day of partly cloudy with rain,Rain,light rain
